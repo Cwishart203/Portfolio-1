@@ -79,7 +79,6 @@ article h2 {
 }
 
 .refactor {
-    margin: 3%;
     position: relative;
 }
 
@@ -102,7 +101,11 @@ footer h2 {
 }
 
 @media screen and (max-width: 768px) {
-    header {
+    header, section {
+        display: flex;
+        flex-direction: row;
+    }
+    .refactor {
         display: flex;
     }
 }
