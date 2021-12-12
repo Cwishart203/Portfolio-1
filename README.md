@@ -5,4 +5,4 @@ Making and designing a professional portfolio showcasing information about me, p
 
 https://cwishart203.github.io/Portfolio-1/
 
-![Screenshot](.\assets\images\portfolio-preview.png)
+![Screenshot](./assets/images/portfolio-preview.png)
