@@ -72,7 +72,7 @@ article {
     gap: 20px;
 }
 
-article img {
+.projects img {
     max-height: 200px;
     max-width: 200px;
 }
@@ -91,9 +91,9 @@ article h2 {
 
 .projects-title {
     position: absolute;
-    bottom: 17px;
+    /* bottom: 17px;
     left: 50px;
-    font-size: 30px;
+    font-size: 30px; */
 }
 
 footer {
@@ -105,6 +105,15 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+.contacts {
+display: inline-block;
+}
+
+.contacts img {
+    max-height: 100px;
+    max-width: 100px;
 }
 
 @media screen and (max-width: 768px) {
